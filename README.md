@@ -23,3 +23,7 @@ Colab loads the notebook straight from this repository, so any update pushed to
 
 _Generated notebooks live alongside `make_notebooks.py`, the script used to
 build them._
+
+---
+
+© Meira Davidson · part of the **Math for Curious Kids** series.
