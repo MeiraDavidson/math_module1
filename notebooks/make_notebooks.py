@@ -14,7 +14,7 @@ REPO = "MeiraDavidson/math_module1"   # placeholder GitHub repo
 
 
 def badge(path):
-    url = f"https://colab.research.google.com/github/{REPO}/blob/main/{path}"
+    url = f"https://colab.research.google.com/github/{REPO}/blob/main/notebooks/{path}"
     return (f"[![Open In Colab](https://colab.research.google.com/assets/"
             f"colab-badge.svg)]({url})")
 
